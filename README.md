@@ -2,6 +2,9 @@
 
 This project demonstrates how to build and run a Rust-based web server as a unikernel using the OPS toolchain. Unikernels are lightweight, single-purpose virtual machine images that package an application together with only the necessary operating system components, enhancing security, performance, and resource utilization. The Rust application in this project is packaged into a unikernel and run using QEMU within Windows Subsystem for Linux (WSL).
 
+![UniKernel](https://github.com/user-attachments/assets/1834e88e-cf62-4194-85ca-db6e22a21c5d)
+
+
 ## Overview
 
 - **Unikernels** combine the application and minimal OS components, reducing the attack surface and overhead.
